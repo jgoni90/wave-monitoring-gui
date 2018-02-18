@@ -1,0 +1,8 @@
+addpath(genpath([pwd '/Callbacks']))
+addpath(genpath([pwd '/PGD_Data']))
+addpath(genpath([pwd '/PGD_Routines']))
+addpath(genpath([pwd '/Other_Routines']))
+addpath(genpath([pwd '/User_Functions']))
+% addpath(genpath([pwd '/NEFEM']))
+% addpath(genpath([pwd '/CDG']))
+% addpath(genpath([pwd '/DG']))
